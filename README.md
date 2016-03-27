@@ -6,6 +6,9 @@ by element set, element name, and element text value.
 
 It is available for Omeka 1.5 ([Category Browse (1.x)]) and for Omeka 2 ([Category Browse (2.x)]).
 
+**Warning**
+This plugin is no longer maintained. Some ideas of it have been included in [Reference].
+
 
 Installation
 ------------
@@ -86,6 +89,7 @@ Copyright
 [Category Browse]: https://github.com/kevinreiss/Omeka-CategoryBrowse
 [Category Browse (1.x)]: https://github.com/kevinreiss/Omeka-CategoryBrowse
 [Category Browse (2.x)]: https://github.com/Daniel-KM/CategoryBrowse
+[Reference]: https://github.com/Daniel-KM/Reference
 [plugin issues (1.x)]: https://github.com/kevinreiss/Omeka-CategoryBrowse/issues
 [plugin issues (2.x)]: https://github.com/Daniel-KM/CategoryBrowse/issues
 [GNU/GPL v3]: https://www.gnu.org/licenses/gpl-3.0.html
